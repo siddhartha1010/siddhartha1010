@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Raut</h1>
 <h3 align="center">Embarking on the Coding Odyssey: Learning, Growing, Creating</h3>
 
-- 🌱 Currently learning **React js**
+- 🌱 Currently learning **Fast API**
 
 - 👨‍💻 All of my projects are available at [https://www.siddhartharaut.com.np/](https://www.siddhartharaut.com.np/)
 
