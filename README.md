@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **siddhartharaut1234@gmail.com**
 
-- 📄 Resume [https://app.luminpdf.com/viewer/6624d0c69ef6409b212a75f0](https://app.luminpdf.com/viewer/6624d0c69ef6409b212a75f0)
+<!-- 📄 Resume [https://app.luminpdf.com/viewer/6624d0c69ef6409b212a75f0](https://app.luminpdf.com/viewer/6624d0c69ef6409b212a75f0) -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
